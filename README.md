@@ -10,3 +10,10 @@ I should use my phone and the combination of these models with the function call
 
 I already have voice communication and tools ready. I just need the tools to connect to the robot next and have the sight work a bit better.
 I could use GPT4 vision or Claude Vision but that is expensive.
+
+#####################################################################################################
+
+Just adding two new scripts that can be used to find objects in a video feed. They dont work great but they are I think the first in the world lol
+I mean GPT4 cant do it at the moment so I am pretty pleased. Things should run faster so not sure why they arent but I will try update later but please feel
+free to take it and use it.
+
